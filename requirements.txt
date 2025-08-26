@@ -1,0 +1,15 @@
+streamlit
+pypdf
+sentence_transformers
+llama_index>=0.12.45
+llama-index-llms-huggingface
+jedi>=0.16
+langchain>=0.1.16
+langchain-community>=0.0.34
+llama-index-embeddings-langchain
+torch
+langchain-huggingface>=0.2.2
+#bitsandbytes
+#accelerate
+einops
+optimum-intel
